@@ -10,7 +10,7 @@ _Demonstrate Github version branching and merging_
 
 ## Setup/Installation Requirements
 
-* _Clone or download this repository located at https://github.com/fetonecontrol/bakery
+* _Clone or download this repository located at https://github.com/fetonecontrol/branching-website
 * _Open in your code editor of choice_
 
 
